@@ -1,0 +1,9 @@
+pandas
+numpy
+gradio
+transformers
+torch
+scikit-learn
+matplotlib
+streamlit
+plotly
