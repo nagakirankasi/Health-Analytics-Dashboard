@@ -67,6 +67,11 @@ Ensure you have **Python 3.8+** installed.
 - **Target Variable:** Weight Change (in lbs)
 - **Training Dataset:** Public health datasets + synthetic data
 
+## Demo
+https://huggingface.co/spaces/nkirankasi/HealthAnalyticsDashboard
+![Demo](HAB-demo.webp)
+
+
 ## Deployment
 The app can be deployed using:
 - **Streamlit Community Cloud**
