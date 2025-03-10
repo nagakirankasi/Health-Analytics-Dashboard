@@ -1,7 +1,7 @@
-# Personal Health Dashboard
+# Health Analytics Dashboard
 
 ## Overview
-The **Personal Health Dashboard** is a simple web application that allows users to upload their health data (in CSV or Excel format) and predicts **whether they will lose or gain weight**, along with an estimate of the weight change in pounds. The app leverages **Streamlit** for an interactive front-end and employs **basic linear regression ML models** to provide predictions.
+The **Personal Health Analytics Dashboard** is a simple web application that allows users to upload their health data (in CSV or Excel format) and predicts **whether they will lose or gain weight**, along with an estimate of the weight change in pounds. The app leverages **Streamlit** for an interactive front-end and employs **basic linear regression ML models** to provide predictions.
 
 ## Features
 - 📂 **Upload Health Data**: Users can upload CSV/Excel files containing health data.
