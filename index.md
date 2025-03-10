@@ -54,13 +54,6 @@ Ensure you have **Python 3.8+** installed.
    - **Weight change** (gain/loss) in pounds over the next month.
 4. The results will be displayed with an **interactive dashboard**.
 
-## Example Input Data Format
-| Date       | Sleep Hours | Steps  | Exercise Minutes | Heart Rate |
-|------------|------------|--------|------------------|------------|
-| 2025-02-01 | 7.5        | 8000   | 45               | 72         |
-| 2025-02-02 | 6.0        | 5000   | 30               | 78         |
-| 2025-02-03 | 8.0        | 10000  | 60               | 70         |
-
 ## Model Details
 - **Algorithm Used:** Linear Regression
 - **Features:** Sleep Hours, Steps, Exercise Minutes, Heart Rate
