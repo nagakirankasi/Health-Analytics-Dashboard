@@ -62,7 +62,7 @@ Ensure you have **Python 3.8+** installed.
 
 ## Demo
 https://huggingface.co/spaces/nkirankasi/HealthAnalyticsDashboard
-![Demo](HAB-demo.webm)
+![Demo](HAB-demo.webp)
 
 ## Deployment
 The app can be deployed using:
